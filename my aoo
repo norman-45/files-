@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My App</title>
+</head>
+<body style="background:black; color:lime; font-family: monospace;">
+  <h2>My First Web App</h2>
+  <button onclick="alert('You clicked it!')">Click Me</button>
+</body>
+</html>

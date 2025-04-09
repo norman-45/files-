@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome to My Website</title>
+  <style>
+    body {
+      background: black;
+      color: #00ffcc;
+      font-family: monospace;
+      text-align: center;
+      padding-top: 100px;
+    }
+    a {
+      color: #00ffcc;
+      display: block;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hello World, This My Spot</h1>
+  <p>Click below to run my app:</p>
+  <a href="myapp.html">Try My App</a>
+</body>
+</html>
